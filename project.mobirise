@@ -43,7 +43,15 @@
     "uniqCompNum": 22,
     "versionPublish": "5.6.13",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/0ub-2vrcib2am0kebwyh09p40kt7lbfj-128x72.png",
+    "mbrsiteDomain": "rxuiacjklj",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
